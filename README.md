@@ -1,6 +1,8 @@
 ## Classification of Social Network Node based on Graph Convolutional Network
 
 
+
+
 ### GCN/GraphSAGE_Project - comp7404-group4 
 
 Team Member:  Wang Luozhou, Zhang He, Ji Yeon Fung, Ren Xinzhu
