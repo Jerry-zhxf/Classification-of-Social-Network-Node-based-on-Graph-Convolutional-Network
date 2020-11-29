@@ -29,9 +29,9 @@ python run.py --dataset PubMed
 ```
 The output will plot a curve of accuracy and loss firstly. When user switches off this window, the output will be two figures showing nodes position through t-SNE visualization before input into model and after respectively. Here are samples.
 
-![image](https://github.com/ZHANGHE24/Classification-of-Social-Network-Node-based-on-Graph-Convolutional-Network/blob/main/image/Cora.png)
-![image](https://github.com/ZHANGHE24/Classification-of-Social-Network-Node-based-on-Graph-Convolutional-Network/blob/main/image/untrained_Cora.png)
-![image](https://github.com/ZHANGHE24/Classification-of-Social-Network-Node-based-on-Graph-Convolutional-Network/blob/main/image/trained_Cora.png)
+<img src="https://github.com/ZHANGHE24/Classification-of-Social-Network-Node-based-on-Graph-Convolutional-Network/blob/main/image/Cora.png" width="50%" height="50%">
+<img src="https://github.com/ZHANGHE24/Classification-of-Social-Network-Node-based-on-Graph-Convolutional-Network/blob/main/image/untrained_Cora.png" width="40%" height="40%">
+<img src="https://github.com/ZHANGHE24/Classification-of-Social-Network-Node-based-on-Graph-Convolutional-Network/blob/main/image/trained_Cora.png" width="40%" height="40%">
 
 
 #### If user want to use different of aggregators of GraphSAGE, use command 
