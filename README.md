@@ -51,6 +51,6 @@ python run_aggregator.py --aggregator pool
 ```
 python run_aggregator.py --aggregator lstm 
 ```
-#### user can also add --dataset to select different dataset among Cora, CiteSeer, PubMed. 
+#### User can also add --dataset to select different dataset among Cora, CiteSeer, PubMed. 
 
 
