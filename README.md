@@ -3,7 +3,8 @@
 
 ### GCN/GraphSAGE_Project - comp7404-group4 
 
-   
+Team Member:  Wang Luozhou, Zhang He, Ji Yeon Fung, Ren Xinzhu
+
 #### Language Environment: 
 Python3.6.9 
  
