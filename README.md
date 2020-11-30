@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ``` 
 
 PS:
-If you report an error in the dgl_cu101 ==0.5.2 command, please delete it and run the following command:
+If you get an error report in the dgl_cu101 ==0.5.2 command, please delete it and run the following command:
 ```
 pip install --verbose --no-cache-dir torch-sparse torch-scatter
 ```
