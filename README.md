@@ -14,7 +14,14 @@ Python3.6.9
 ```
 pip install -r requirements.txt 
 ``` 
-   
+
+PS:
+If you report an error in the dgl_cu101 ==0.5.2 command, please delete it and run the following command:
+```
+pip install --verbose --no-cache-dir torch-sparse torch-scatter
+```
+Because you probably don't have a graphics card or version of the driver, you cannot use CUDA to train your model. Therefore, you'll need to install the environment packages(Torch-Sparse and Scatter) to make sure that the code works (This model also can be trained directly with the CPU).
+
 #### Run Demo 
 Run three datasets by type command in terminal 
   
